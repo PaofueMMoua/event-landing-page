@@ -1,1 +1,8 @@
-s
+.main-flex {
+    display:flex;
+    justify-content: center; 
+}
+.venue {
+    display:flex;
+    flex-direction: column;
+}
